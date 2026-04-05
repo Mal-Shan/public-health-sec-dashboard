@@ -1,2 +1,7 @@
-# public-health-sec-dashboard
-To foster discussion around breaches of sensitive patient information, I developed a real-time, interactive data dashboard that allows patients and providers to track such incidents.
+# Health Care Security Attacks Dashboard
+
+According to the US Department of Health and Human Services, in almost every month of 2020, more than 1 million people were affected by data breaches at healthcare organizations. This was a 9851% increase from 2019, leading to security exploitations in 560 total healthcare organizations. To foster discussion around these issues, I coded in 2023 an interactive data dashboard using R that would allow patients and healthcare providers to fully understand the magnitude of such incidents. The data for this dashboard is continuously updated from public domain data provided by the DHHS. To access the code for this dashboard go to ShinyApps/HealthSecurity > HealthSecurity.Rmd
+
+<img src='2024 Poster Presentation.png' /></a>
+
+This project has been recognized by the National Center for Women in Technology as a Finalist in the 2024 Aspirations in Computing Award. Additionally, it has been by accepted and presented at the Association for Computing Machinery’s 14th International Conference for Computational Biology, Bioinformatics, and Health informatics, for which I was recognized with a 2023 National Science Foundation Student Travel Award, and rhe New England Science Symposium, for which I won the first prize in Public Health, Epidemiology or Biostatistics; Bioinformatics, Physics, Chemistry or Engineering; and Clinical or Social Science (including Translational Research).
